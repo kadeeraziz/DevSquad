@@ -1,9 +1,9 @@
-AFG DevSquad - Collaborative Software Development
+# Exploratory Data Analysis on Wine Dataset
 
-Welcome to the AFG DevSquad repository, where a team of software engineers work together to build innovative, high-quality software solutions. Our mission is to create software that makes a positive impact, whether that's by solving complex problems, improving user experiences, or making everyday tasks more efficient.
+Description: This project contains code and documentation for Exploratory Data Analysis (EDA) on a wine dataset. The dataset consists of information on red and white types of wine, including their chemical properties and quality ratings. The purpose of this analysis is to gain insights into the relationships between various wine attributes and their quality ratings.
 
-Our team includes developers with a range of skills and expertise, including front-end and back-end development, DevOps, data science, database design, user experience design, and more. We believe that collaboration is key to creating great software, so we work together to share knowledge, brainstorm ideas, and support each other in solving challenges.
+The project includes Jupyter notebooks with Python code for data cleaning, visualization, and statistical analysis. The EDA covers descriptive statistics, data visualization, correlation analysis, and feature selection. The findings are summarized in a report that includes insights and recommendations for future analysis.
 
-In this repository, you'll find the code for our latest software project, as well as documentation, issue tracking, and other resources to support our development process. We welcome contributions from other developers who share our passion for creating great software, so please feel free to fork the repository and submit pull requests if you'd like to get involved.
+The project is organized into the following directories:
 
-Thank you for your interest in our work, and we look forward to collaborating with you!
+data in csv files: containing the raw and cleaned datasets. notebooks code files: containing the Jupyter notebooks for data analysis. reports as pdf files: containing the EDA report. This analysis can serve as a starting point for anyone interested in exploring the wine dataset or performing EDA on similar datasets. Contributions and feedback are welcome.
